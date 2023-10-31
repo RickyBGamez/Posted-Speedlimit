@@ -1,7 +1,7 @@
 fx_version "cerulean"
 game "gta5"
 
-author "RickyBGamez"
+author "ricky"
 description "An optimized version of Posted-Speedlimit, originaly created by Big Yoda."
 version "1.0"
 
